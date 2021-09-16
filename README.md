@@ -23,9 +23,15 @@ Recolectamos datos de facebook y tiktok las cuales se almacenaron en las bases d
 
 ### 4. Tema definido por el estudiante.
 
+
+
 ### 5. Eventos o noticias mundiales.
 
+Contiene los datos recolectados de canales populares de noticias internacionales, los scripts y las visualizaciones de los datos.
+
 ### 6. Documentación.
+
+En este apartado se encuentra el informe tecnico del proyecto final, las actividades a realizar de cada estudiante, el cronograma y la presentacion de todo el Data-Lake. 
 
 ### 7. Video en YouTube.
 
