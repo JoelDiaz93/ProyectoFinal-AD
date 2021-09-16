@@ -23,7 +23,7 @@ Recolectamos datos de facebook y tiktok las cuales se almacenaron en las bases d
 
 ### 4. Tema definido por el estudiante.
 
-
+Se ha utilizado un dataset que consta de información sobre estudiantes matriculados en la Escuela Politecnica Nacional para analizar de que provincia/s provienen la mayoría de estudiantes, además de concluir porque se da esto.
 
 ### 5. Eventos o noticias mundiales.
 
