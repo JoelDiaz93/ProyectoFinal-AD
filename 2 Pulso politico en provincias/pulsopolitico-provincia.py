@@ -21,7 +21,7 @@ try:
 except ConnectionFailure as cf:
     print('MongoDB connection: failed', cf)
 db_mongo = CLIENT["pulso_politico_prov"]
-provincia = db_mongo["eloro"]
+provincia = db_mongo["cotopaxi"]
 #
 # x = provincia.insert_many(db)
 
@@ -69,7 +69,7 @@ twitterStream = Stream(auth, listener())
 # twitterStream.filter(locations=[-79.7637,-3.6284,-78.4236,-2.5544])  #Azuay
 # twitterStream.filter(locations=[-78.074092,0.356681,-77.795661,0.588566])  #Bolivar
 # twitterStream.filter(locations=[-78.5494,0.3567,-77.5255,1.1979])  #Carchi
-# twitterStream.filter(locations=[-79.3393,-1.22,-78.3809,-0.3308])  #Cotopaxi
+twitterStream.filter(locations=[-79.3393,-1.22,-78.3809,-0.3308])  #Cotopaxi
 # twitterStream.filter(locations=[-79.2545,-2.5673,-78.3585,-1.4301]) #Chimborazo
 # twitterStream.filter(locations=[-81.0114,-2.5076,-80.1999,-1.6687])  #Santa Elena
 # twitterStream.filter(locations=[-80.5634,-3.0643,-79.1019,-0.8367])  #Guayas

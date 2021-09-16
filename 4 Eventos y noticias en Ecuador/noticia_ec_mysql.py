@@ -42,6 +42,14 @@ for element in contenido_post:
 
 dfDS=pd.DataFrame({'titulo':titulos, 'contenido':contenidos})
 
+num=len(titulos)
+for n in num:
+    SQLCommand = ("INSERT INTO cuba(id_post, texto, date, likes, comments, shares, reactions, url_post) VALUES (?,?,?,?,?,?,?,?)")
+    Values = [post['post_id'], post['text'], mydate.timestamp(), post['likes'], post['comments'], post['shares'],
+              post['reactions'], post['post_url']]
+    cursor.execute(SQLCommand, Values)
+    connection.commit()
+
 CLIENT = MongoClient("mongodb://localhost:27017/")
 try:
     CLIENT.admin.command('ismaster')
