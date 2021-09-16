@@ -19,6 +19,8 @@ En esta seccion encontramos el dataset obtenido mediante la recopilación de dat
 
 ### 3. Juegos en línea por países.
 
+Recolectamos datos de facebook y tiktok las cuales se almacenaron en las bases de datos de Couch DB y SQL Server, para posterior descargar un cvs con toda la informacion de los juegos en cada país.
+
 ### 4. Tema definido por el estudiante.
 
 ### 5. Eventos o noticias mundiales.
