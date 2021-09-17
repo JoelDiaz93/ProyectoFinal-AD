@@ -1,0 +1,2185 @@
+[{
+  "_id": "1438369184077996034",
+  "created_at": "Thu Sep 16 05:08:31 +0000 2021",
+  "id": 1438369184077996000,
+  "id_str": "1438369184077996034",
+  "text": "Y es aquí, donde no duermo,solo por esta hermosura🌞🌻\n@MSuppasit\n#GucciLifeStyleMSS\n#mewsuppasit https://t.co/jUKey5bGP0",
+  "display_text_range": [
+    0,
+    95
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1122250237874245600,
+    "id_str": "1122250237874245632",
+    "name": "Katherinne",
+    "screen_name": "Katha23lora",
+    "location": "Tailandia",
+    "url": null,
+    "description": "La música y la Honestidad\ny actualmente MewGulf✌✌🐼⚽️💜🖤",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 57,
+    "friends_count": 84,
+    "listed_count": 0,
+    "favourites_count": 7276,
+    "statuses_count": 838,
+    "created_at": "Sat Apr 27 21:24:41 +0000 2019",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1405859168821690371/MkG8Y8Bb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405859168821690371/MkG8Y8Bb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122250237874245632/1623625817",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0639360bd49a15e3",
+    "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+    "place_type": "country",
+    "name": "Colombia",
+    "full_name": "Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.728111,
+            -4.227073
+          ],
+          [
+            -81.728111,
+            13.390292
+          ],
+          [
+            -66.854502,
+            13.390292
+          ],
+          [
+            -66.854502,
+            -4.227073
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "GucciLifeStyleMSS",
+        "indices": [
+          64,
+          82
+        ]
+      },
+      {
+        "text": "mewsuppasit",
+        "indices": [
+          83,
+          95
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "MSuppasit",
+        "name": "mewsuppasit",
+        "id": 828410488509734900,
+        "id_str": "828410488509734912",
+        "indices": [
+          53,
+          63
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1438369181221671000,
+        "id_str": "1438369181221670915",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_YdJkaWUAMAE-S.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_YdJkaWUAMAE-S.jpg",
+        "url": "https://t.co/jUKey5bGP0",
+        "display_url": "pic.twitter.com/jUKey5bGP0",
+        "expanded_url": "https://twitter.com/Katha23lora/status/1438369184077996034/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 418,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1755,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 738,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1438369181221671000,
+        "id_str": "1438369181221670915",
+        "indices": [
+          96,
+          119
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_YdJkaWUAMAE-S.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_YdJkaWUAMAE-S.jpg",
+        "url": "https://t.co/jUKey5bGP0",
+        "display_url": "pic.twitter.com/jUKey5bGP0",
+        "expanded_url": "https://twitter.com/Katha23lora/status/1438369184077996034/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 418,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1755,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 738,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631768911748"
+},{
+  "_id": "1438369926872543236",
+  "created_at": "Thu Sep 16 05:11:28 +0000 2021",
+  "id": 1438369926872543200,
+  "id_str": "1438369926872543236",
+  "text": "Muy bonitas la foto y todo pero esta esta 🔥🔥🔥👌\n🌞🌻\nUna Más así y tendrá  a tod@s 🤤🤤🤤\n\n@Msuppasitstudio\n@MSuppasit… https://t.co/4HI6ZhO2pZ",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1122250237874245600,
+    "id_str": "1122250237874245632",
+    "name": "Katherinne",
+    "screen_name": "Katha23lora",
+    "location": "Tailandia",
+    "url": null,
+    "description": "La música y la Honestidad\ny actualmente MewGulf✌✌🐼⚽️💜🖤",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 57,
+    "friends_count": 84,
+    "listed_count": 0,
+    "favourites_count": 7276,
+    "statuses_count": 839,
+    "created_at": "Sat Apr 27 21:24:41 +0000 2019",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1405859168821690371/MkG8Y8Bb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405859168821690371/MkG8Y8Bb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122250237874245632/1623625817",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0639360bd49a15e3",
+    "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+    "place_type": "country",
+    "name": "Colombia",
+    "full_name": "Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.728111,
+            -4.227073
+          ],
+          [
+            -81.728111,
+            13.390292
+          ],
+          [
+            -66.854502,
+            13.390292
+          ],
+          [
+            -66.854502,
+            -4.227073
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "Muy bonitas la foto y todo pero esta esta 🔥🔥🔥👌\n🌞🌻\nUna Más así y tendrá  a tod@s 🤤🤤🤤\n\n@Msuppasitstudio\n@MSuppasit\n#GucciLifeStyleMSS https://t.co/XHoTYqIJAc",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GucciLifeStyleMSS",
+          "indices": [
+            113,
+            131
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "Msuppasitstudio",
+          "name": "MewSuppasitStudio",
+          "id": 1257000250809581600,
+          "id_str": "1257000250809581568",
+          "indices": [
+            85,
+            101
+          ]
+        },
+        {
+          "screen_name": "MSuppasit",
+          "name": "mewsuppasit",
+          "id": 828410488509734900,
+          "id_str": "828410488509734912",
+          "indices": [
+            102,
+            112
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1438369924024578000,
+          "id_str": "1438369924024578050",
+          "indices": [
+            132,
+            155
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_Yd0zkXMAIsRz1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_Yd0zkXMAIsRz1.jpg",
+          "url": "https://t.co/XHoTYqIJAc",
+          "display_url": "pic.twitter.com/XHoTYqIJAc",
+          "expanded_url": "https://twitter.com/Katha23lora/status/1438369926872543236/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 418,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1755,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 738,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1438369924024578000,
+          "id_str": "1438369924024578050",
+          "indices": [
+            132,
+            155
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_Yd0zkXMAIsRz1.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_Yd0zkXMAIsRz1.jpg",
+          "url": "https://t.co/XHoTYqIJAc",
+          "display_url": "pic.twitter.com/XHoTYqIJAc",
+          "expanded_url": "https://twitter.com/Katha23lora/status/1438369926872543236/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 418,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1755,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 738,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/4HI6ZhO2pZ",
+        "expanded_url": "https://twitter.com/i/web/status/1438369926872543236",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Msuppasitstudio",
+        "name": "MewSuppasitStudio",
+        "id": 1257000250809581600,
+        "id_str": "1257000250809581568",
+        "indices": [
+          85,
+          101
+        ]
+      },
+      {
+        "screen_name": "MSuppasit",
+        "name": "mewsuppasit",
+        "id": 828410488509734900,
+        "id_str": "828410488509734912",
+        "indices": [
+          102,
+          112
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631769088844"
+},{
+  "_id": "1438370267529719814",
+  "created_at": "Thu Sep 16 05:12:50 +0000 2021",
+  "id": 1438370267529719800,
+  "id_str": "1438370267529719814",
+  "text": "@taniavelez Digo que está feo...",
+  "display_text_range": [
+    12,
+    32
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1438217404161667000,
+  "in_reply_to_status_id_str": "1438217404161667076",
+  "in_reply_to_user_id": 119268809,
+  "in_reply_to_user_id_str": "119268809",
+  "in_reply_to_screen_name": "taniavelez",
+  "user": {
+    "id": 217675616,
+    "id_str": "217675616",
+    "name": "FRANCO FERNÁNDEZ S.",
+    "screen_name": "francofer1",
+    "location": "Quito + Ecuador",
+    "url": "http://www.facebook.com/francofernandezs",
+    "description": "P @YSiTePasaATi_CT / Emprendedor / Escritor @NochesDeAurora / Activista Laboral / Atleta / Speaker: PUCE, UCE, ESPE, UTI, UDLH, UDP, ISTL /\nVP @ColoniaQuitoZ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 6414,
+    "friends_count": 2977,
+    "listed_count": 19,
+    "favourites_count": 32903,
+    "statuses_count": 42861,
+    "created_at": "Sat Nov 20 05:28:02 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1394179098495311872/Jf38gZCg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394179098495311872/Jf38gZCg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/217675616/1486010216",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4e43cac8250a8b20",
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "place_type": "country",
+    "name": "Ecuador",
+    "full_name": "Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.008973,
+            -5.013285
+          ],
+          [
+            -92.008973,
+            1.681834
+          ],
+          [
+            -75.192627,
+            1.681834
+          ],
+          [
+            -75.192627,
+            -5.013285
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "taniavelez",
+        "name": "la señora de las plantas",
+        "id": 119268809,
+        "id_str": "119268809",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631769170063"
+},{
+  "_id": "1438370565639835648",
+  "created_at": "Thu Sep 16 05:14:01 +0000 2021",
+  "id": 1438370565639835600,
+  "id_str": "1438370565639835648",
+  "text": "Que alguien  controle a @MSuppasit\nAsí no puedo Dormir 😞\n🤤🤤🌞🤤🤤\n🌞🌻\n@Msuppasitstudio\n#GucciLifeStyleMSS https://t.co/qkWUlVbHJs",
+  "display_text_range": [
+    0,
+    101
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1122250237874245600,
+    "id_str": "1122250237874245632",
+    "name": "Katherinne",
+    "screen_name": "Katha23lora",
+    "location": "Tailandia",
+    "url": null,
+    "description": "La música y la Honestidad\ny actualmente MewGulf✌✌🐼⚽️💜🖤",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 57,
+    "friends_count": 84,
+    "listed_count": 0,
+    "favourites_count": 7278,
+    "statuses_count": 840,
+    "created_at": "Sat Apr 27 21:24:41 +0000 2019",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1405859168821690371/MkG8Y8Bb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405859168821690371/MkG8Y8Bb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122250237874245632/1623625817",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0639360bd49a15e3",
+    "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+    "place_type": "country",
+    "name": "Colombia",
+    "full_name": "Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.728111,
+            -4.227073
+          ],
+          [
+            -81.728111,
+            13.390292
+          ],
+          [
+            -66.854502,
+            13.390292
+          ],
+          [
+            -66.854502,
+            -4.227073
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "GucciLifeStyleMSS",
+        "indices": [
+          83,
+          101
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "MSuppasit",
+        "name": "mewsuppasit",
+        "id": 828410488509734900,
+        "id_str": "828410488509734912",
+        "indices": [
+          24,
+          34
+        ]
+      },
+      {
+        "screen_name": "Msuppasitstudio",
+        "name": "MewSuppasitStudio",
+        "id": 1257000250809581600,
+        "id_str": "1257000250809581568",
+        "indices": [
+          66,
+          82
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1438370558928949200,
+        "id_str": "1438370558928949250",
+        "indices": [
+          102,
+          125
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_YeZwxXEAIUQFo.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_YeZwxXEAIUQFo.jpg",
+        "url": "https://t.co/qkWUlVbHJs",
+        "display_url": "pic.twitter.com/qkWUlVbHJs",
+        "expanded_url": "https://twitter.com/Katha23lora/status/1438370565639835648/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1638,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1438370558928949200,
+        "id_str": "1438370558928949250",
+        "indices": [
+          102,
+          125
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_YeZwxXEAIUQFo.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_YeZwxXEAIUQFo.jpg",
+        "url": "https://t.co/qkWUlVbHJs",
+        "display_url": "pic.twitter.com/qkWUlVbHJs",
+        "expanded_url": "https://twitter.com/Katha23lora/status/1438370565639835648/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1638,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 1438370563576275000,
+        "id_str": "1438370563576274945",
+        "indices": [
+          102,
+          125
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_YeaCFXoAEa8Jm.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_YeaCFXoAEa8Jm.jpg",
+        "url": "https://t.co/qkWUlVbHJs",
+        "display_url": "pic.twitter.com/qkWUlVbHJs",
+        "expanded_url": "https://twitter.com/Katha23lora/status/1438370565639835648/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 719,
+            "h": 829,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 590,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 719,
+            "h": 829,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631769241138"
+},{
+  "_id": "1438372017586249729",
+  "created_at": "Thu Sep 16 05:19:47 +0000 2021",
+  "id": 1438372017586249700,
+  "id_str": "1438372017586249729",
+  "text": "I want to wake up to a sweet like that every day.🔥🔥\n\nbut hey, we are in good health, which is the important thing.🥺… https://t.co/miuBmp9Mmn",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1122250237874245600,
+    "id_str": "1122250237874245632",
+    "name": "Katherinne",
+    "screen_name": "Katha23lora",
+    "location": "Tailandia",
+    "url": null,
+    "description": "La música y la Honestidad\ny actualmente MewGulf✌✌🐼⚽️💜🖤",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 57,
+    "friends_count": 84,
+    "listed_count": 0,
+    "favourites_count": 7279,
+    "statuses_count": 841,
+    "created_at": "Sat Apr 27 21:24:41 +0000 2019",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1405859168821690371/MkG8Y8Bb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405859168821690371/MkG8Y8Bb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122250237874245632/1623625817",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0639360bd49a15e3",
+    "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+    "place_type": "country",
+    "name": "Colombia",
+    "full_name": "Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.728111,
+            -4.227073
+          ],
+          [
+            -81.728111,
+            13.390292
+          ],
+          [
+            -66.854502,
+            13.390292
+          ],
+          [
+            -66.854502,
+            -4.227073
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "I want to wake up to a sweet like that every day.🔥🔥\n\nbut hey, we are in good health, which is the important thing.🥺\n\n@MSuppasit come to me🤤\n@Msuppasitstudio\n#GucciLifeStyleMSS https://t.co/6N3pYGYq9o",
+    "display_text_range": [
+      0,
+      175
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GucciLifeStyleMSS",
+          "indices": [
+            157,
+            175
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "MSuppasit",
+          "name": "mewsuppasit",
+          "id": 828410488509734900,
+          "id_str": "828410488509734912",
+          "indices": [
+            117,
+            127
+          ]
+        },
+        {
+          "screen_name": "Msuppasitstudio",
+          "name": "MewSuppasitStudio",
+          "id": 1257000250809581600,
+          "id_str": "1257000250809581568",
+          "indices": [
+            140,
+            156
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1438372014285336600,
+          "id_str": "1438372014285336579",
+          "indices": [
+            176,
+            199
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_YfueZXMAM7Pxk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_YfueZXMAM7Pxk.jpg",
+          "url": "https://t.co/6N3pYGYq9o",
+          "display_url": "pic.twitter.com/6N3pYGYq9o",
+          "expanded_url": "https://twitter.com/Katha23lora/status/1438372017586249729/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1366,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 454,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1438372014285336600,
+          "id_str": "1438372014285336579",
+          "indices": [
+            176,
+            199
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_YfueZXMAM7Pxk.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_YfueZXMAM7Pxk.jpg",
+          "url": "https://t.co/6N3pYGYq9o",
+          "display_url": "pic.twitter.com/6N3pYGYq9o",
+          "expanded_url": "https://twitter.com/Katha23lora/status/1438372017586249729/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 1366,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 454,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/miuBmp9Mmn",
+        "expanded_url": "https://twitter.com/i/web/status/1438372017586249729",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1631769587309"
+},{
+  "_id": "1438373205551554564",
+  "created_at": "Thu Sep 16 05:24:30 +0000 2021",
+  "id": 1438373205551554600,
+  "id_str": "1438373205551554564",
+  "text": "and now what do I do with my existence😱😱\n\nyou have us bad @MSuppasit 🤤🔥\n\nIt can't be done like that, I want to go t… https://t.co/o5wFpsolbR",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1122250237874245600,
+    "id_str": "1122250237874245632",
+    "name": "Katherinne",
+    "screen_name": "Katha23lora",
+    "location": "Tailandia",
+    "url": null,
+    "description": "La música y la Honestidad\ny actualmente MewGulf✌✌🐼⚽️💜🖤",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 57,
+    "friends_count": 84,
+    "listed_count": 0,
+    "favourites_count": 7280,
+    "statuses_count": 842,
+    "created_at": "Sat Apr 27 21:24:41 +0000 2019",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1405859168821690371/MkG8Y8Bb_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1405859168821690371/MkG8Y8Bb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1122250237874245632/1623625817",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0639360bd49a15e3",
+    "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+    "place_type": "country",
+    "name": "Colombia",
+    "full_name": "Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.728111,
+            -4.227073
+          ],
+          [
+            -81.728111,
+            13.390292
+          ],
+          [
+            -66.854502,
+            13.390292
+          ],
+          [
+            -66.854502,
+            -4.227073
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "and now what do I do with my existence😱😱\n\nyou have us bad @MSuppasit 🤤🔥\n\nIt can't be done like that, I want to go to Thailand @Msuppasitstudio 🐼⚽️\n🌞🌻\n#GucciLifeStyleMSS https://t.co/GqtGtDyhYZ",
+    "display_text_range": [
+      0,
+      168
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GucciLifeStyleMSS",
+          "indices": [
+            150,
+            168
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "MSuppasit",
+          "name": "mewsuppasit",
+          "id": 828410488509734900,
+          "id_str": "828410488509734912",
+          "indices": [
+            58,
+            68
+          ]
+        },
+        {
+          "screen_name": "Msuppasitstudio",
+          "name": "MewSuppasitStudio",
+          "id": 1257000250809581600,
+          "id_str": "1257000250809581568",
+          "indices": [
+            126,
+            142
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1438373202150011000,
+          "id_str": "1438373202150010880",
+          "indices": [
+            169,
+            192
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_YgzniXsAANXLW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_YgzniXsAANXLW.jpg",
+          "url": "https://t.co/GqtGtDyhYZ",
+          "display_url": "pic.twitter.com/GqtGtDyhYZ",
+          "expanded_url": "https://twitter.com/Katha23lora/status/1438373205551554564/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1044,
+              "h": 1568,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1438373202150011000,
+          "id_str": "1438373202150010880",
+          "indices": [
+            169,
+            192
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_YgzniXsAANXLW.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_YgzniXsAANXLW.jpg",
+          "url": "https://t.co/GqtGtDyhYZ",
+          "display_url": "pic.twitter.com/GqtGtDyhYZ",
+          "expanded_url": "https://twitter.com/Katha23lora/status/1438373205551554564/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1044,
+              "h": 1568,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/o5wFpsolbR",
+        "expanded_url": "https://twitter.com/i/web/status/1438373205551554564",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "MSuppasit",
+        "name": "mewsuppasit",
+        "id": 828410488509734900,
+        "id_str": "828410488509734912",
+        "indices": [
+          58,
+          68
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1631769870542"
+},{
+  "_id": "1438373283586580480",
+  "created_at": "Thu Sep 16 05:24:49 +0000 2021",
+  "id": 1438373283586580500,
+  "id_str": "1438373283586580480",
+  "text": "@LeonidasIzaSal1 @CONAIE_Ecuador @confeniae1 @Micc_Ec ¿Un debate? Te invito",
+  "display_text_range": [
+    54,
+    75
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1438321538525184000,
+  "in_reply_to_status_id_str": "1438321538525184005",
+  "in_reply_to_user_id": 1187719356882526200,
+  "in_reply_to_user_id_str": "1187719356882526209",
+  "in_reply_to_screen_name": "LeonidasIzaSal1",
+  "user": {
+    "id": 217675616,
+    "id_str": "217675616",
+    "name": "FRANCO FERNÁNDEZ S.",
+    "screen_name": "francofer1",
+    "location": "Quito + Ecuador",
+    "url": "http://www.facebook.com/francofernandezs",
+    "description": "P @YSiTePasaATi_CT / Emprendedor / Escritor @NochesDeAurora / Activista Laboral / Atleta / Speaker: PUCE, UCE, ESPE, UTI, UDLH, UDP, ISTL /\nVP @ColoniaQuitoZ",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 6414,
+    "friends_count": 2977,
+    "listed_count": 19,
+    "favourites_count": 32913,
+    "statuses_count": 42873,
+    "created_at": "Sat Nov 20 05:28:02 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1394179098495311872/Jf38gZCg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1394179098495311872/Jf38gZCg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/217675616/1486010216",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4e43cac8250a8b20",
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "place_type": "country",
+    "name": "Ecuador",
+    "full_name": "Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.008973,
+            -5.013285
+          ],
+          [
+            -92.008973,
+            1.681834
+          ],
+          [
+            -75.192627,
+            1.681834
+          ],
+          [
+            -75.192627,
+            -5.013285
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "LeonidasIzaSal1",
+        "name": "Leonidas Iza Salazar Oficial",
+        "id": 1187719356882526200,
+        "id_str": "1187719356882526209",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "CONAIE_Ecuador",
+        "name": "CONAIE",
+        "id": 153167118,
+        "id_str": "153167118",
+        "indices": [
+          17,
+          32
+        ]
+      },
+      {
+        "screen_name": "confeniae1",
+        "name": "CONFENIAE",
+        "id": 1321462820,
+        "id_str": "1321462820",
+        "indices": [
+          33,
+          44
+        ]
+      },
+      {
+        "screen_name": "Micc_Ec",
+        "name": "Mov.IndígenaCotopaxi",
+        "id": 809088880100130800,
+        "id_str": "809088880100130816",
+        "indices": [
+          45,
+          53
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631769889147"
+},{
+  "_id": "1438373568870555648",
+  "created_at": "Thu Sep 16 05:25:57 +0000 2021",
+  "id": 1438373568870555600,
+  "id_str": "1438373568870555648",
+  "text": "#YachaySeDefiende",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 331942531,
+    "id_str": "331942531",
+    "name": "Pamela Aguirre",
+    "screen_name": "pameaguirre1",
+    "location": "Imbabura, Ecuador",
+    "url": "https://www.pameaguirre.com",
+    "description": "Asambleísta del Ecuador por Imbabura. Exparlamentaria Andina. Madre de Nico. Activista por la #LactanciaMaterna. 🤱🏻",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 40372,
+    "friends_count": 5224,
+    "listed_count": 89,
+    "favourites_count": 41186,
+    "statuses_count": 35941,
+    "created_at": "Fri Jul 08 23:49:24 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1435081054839312392/3merllcj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1435081054839312392/3merllcj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/331942531/1630984961",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "00369f433aca083b",
+    "url": "https://api.twitter.com/1.1/geo/id/00369f433aca083b.json",
+    "place_type": "city",
+    "name": "Ibarra",
+    "full_name": "Ibarra, Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.455866,
+            0.156925
+          ],
+          [
+            -78.455866,
+            0.87578
+          ],
+          [
+            -77.962261,
+            0.87578
+          ],
+          [
+            -77.962261,
+            0.156925
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "quoted_status_id": 1438222397333811200,
+  "quoted_status_id_str": "1438222397333811200",
+  "quoted_status": {
+    "created_at": "Wed Sep 15 19:25:15 +0000 2021",
+    "id": 1438222397333811200,
+    "id_str": "1438222397333811200",
+    "text": "En la Sesión No 18 de @ParticipacionAN, instalada en Imbabura, ha sido aprobada de manera   unánime mi moción en de… https://t.co/BDWT54B5mt",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": true,
+    "in_reply_to_status_id": 1438214877991030800,
+    "in_reply_to_status_id_str": "1438214877991030785",
+    "in_reply_to_user_id": 444359402,
+    "in_reply_to_user_id_str": "444359402",
+    "in_reply_to_screen_name": "RUlcuangoF",
+    "user": {
+      "id": 444359402,
+      "id_str": "444359402",
+      "name": "Ricardo Ulcuango F",
+      "screen_name": "RUlcuangoF",
+      "location": "Cayambe-Ecuador 🇪🇨",
+      "url": null,
+      "description": "Asambleista Nacional, ExEmbajador, ExPresidente del Parlamento Indígena de America, ExVicepresidente de la CONAIE, ExPresidente de ECUARUNARI",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 4692,
+      "friends_count": 677,
+      "listed_count": 35,
+      "favourites_count": 1055,
+      "statuses_count": 13073,
+      "created_at": "Fri Dec 23 05:25:51 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1393337419534118914/-O3oYKU2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1393337419534118914/-O3oYKU2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/444359402/1621032223",
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "00a359410bae1118",
+      "url": "https://api.twitter.com/1.1/geo/id/00a359410bae1118.json",
+      "place_type": "city",
+      "name": "Otavalo",
+      "full_name": "Otavalo, Ecuador",
+      "country_code": "EC",
+      "country": "Ecuador",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.625033,
+              0.122839
+            ],
+            [
+              -78.625033,
+              0.322606
+            ],
+            [
+              -78.122579,
+              0.322606
+            ],
+            [
+              -78.122579,
+              0.122839
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "extended_tweet": {
+      "full_text": "En la Sesión No 18 de @ParticipacionAN, instalada en Imbabura, ha sido aprobada de manera   unánime mi moción en defensa de la @UniYachayTech, ejerceremos nuestro rol fiscalizador con la participación de la ciudadanía. No vamos a permitir su desprestigio, ni el de sus estudiantes https://t.co/hDs4XPUlem",
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "ParticipacionAN",
+            "name": "Comisión de Transparencia, Participación Ciudadana",
+            "id": 705732600925655000,
+            "id_str": "705732600925655040",
+            "indices": [
+              22,
+              38
+            ]
+          },
+          {
+            "screen_name": "UniYachayTech",
+            "name": "Universidad Yachay Tech",
+            "id": 2228424470,
+            "id_str": "2228424470",
+            "indices": [
+              127,
+              141
+            ]
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id": 1438222379185016800,
+            "id_str": "1438222379185016837",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/E_WXokNXEAUJRC1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E_WXokNXEAUJRC1.jpg",
+            "url": "https://t.co/hDs4XPUlem",
+            "display_url": "pic.twitter.com/hDs4XPUlem",
+            "expanded_url": "https://twitter.com/RUlcuangoF/status/1438222397333811200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1564,
+                "h": 1564,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1438222379185016800,
+            "id_str": "1438222379185016837",
+            "indices": [
+              281,
+              304
+            ],
+            "media_url": "http://pbs.twimg.com/media/E_WXokNXEAUJRC1.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/E_WXokNXEAUJRC1.jpg",
+            "url": "https://t.co/hDs4XPUlem",
+            "display_url": "pic.twitter.com/hDs4XPUlem",
+            "expanded_url": "https://twitter.com/RUlcuangoF/status/1438222397333811200/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1564,
+                "h": 1564,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 8,
+    "favorite_count": 13,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/BDWT54B5mt",
+          "expanded_url": "https://twitter.com/i/web/status/1438222397333811200",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "ParticipacionAN",
+          "name": "Comisión de Transparencia, Participación Ciudadana",
+          "id": 705732600925655000,
+          "id_str": "705732600925655040",
+          "indices": [
+            22,
+            38
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "es"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/8FfxHbqP78",
+    "expanded": "https://twitter.com/rulcuangof/status/1438222397333811200",
+    "display": "twitter.com/rulcuangof/sta…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "YachaySeDefiende",
+        "indices": [
+          0,
+          17
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1631769957164"
+},{
+  "_id": "1438374047738380292",
+  "created_at": "Thu Sep 16 05:27:51 +0000 2021",
+  "id": 1438374047738380300,
+  "id_str": "1438374047738380292",
+  "text": "#TaxTheRich",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 331942531,
+    "id_str": "331942531",
+    "name": "Pamela Aguirre",
+    "screen_name": "pameaguirre1",
+    "location": "Imbabura, Ecuador",
+    "url": "https://www.pameaguirre.com",
+    "description": "Asambleísta del Ecuador por Imbabura. Exparlamentaria Andina. Madre de Nico. Activista por la #LactanciaMaterna. 🤱🏻",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 40372,
+    "friends_count": 5224,
+    "listed_count": 89,
+    "favourites_count": 41187,
+    "statuses_count": 35944,
+    "created_at": "Fri Jul 08 23:49:24 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1435081054839312392/3merllcj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1435081054839312392/3merllcj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/331942531/1630984961",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "00369f433aca083b",
+    "url": "https://api.twitter.com/1.1/geo/id/00369f433aca083b.json",
+    "place_type": "city",
+    "name": "Ibarra",
+    "full_name": "Ibarra, Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.455866,
+            0.156925
+          ],
+          [
+            -78.455866,
+            0.87578
+          ],
+          [
+            -77.962261,
+            0.87578
+          ],
+          [
+            -77.962261,
+            0.156925
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "quoted_status_id": 1438205769158209500,
+  "quoted_status_id_str": "1438205769158209544",
+  "quoted_status": {
+    "created_at": "Wed Sep 15 18:19:10 +0000 2021",
+    "id": 1438205769158209500,
+    "id_str": "1438205769158209544",
+    "text": "Was AOC having a conversation about her new merch launch at the Met Gala? https://t.co/YIua61qDvU",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 395043143,
+      "id_str": "395043143",
+      "name": "Your fave killjoy| Ericka Hart (She/ They)",
+      "screen_name": "iHartEricka",
+      "location": "New York City",
+      "url": null,
+      "description": "Sexuality Educator|Speaker|Breast Cancer Survivor|Podcast: Hoodrat to Headwrap",
+      "translator_type": "none",
+      "protected": false,
+      "verified": false,
+      "followers_count": 33804,
+      "friends_count": 1430,
+      "listed_count": 172,
+      "favourites_count": 10640,
+      "statuses_count": 9109,
+      "created_at": "Fri Oct 21 01:31:35 +0000 2011",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1297714090064977920/23ZStqVt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297714090064977920/23ZStqVt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/395043143/1573142600",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "quote_count": 65,
+    "reply_count": 11,
+    "retweet_count": 61,
+    "favorite_count": 399,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1438205746940948500,
+          "id_str": "1438205746940948483",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_WIgcRXMAM8cgG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_WIgcRXMAM8cgG.jpg",
+          "url": "https://t.co/YIua61qDvU",
+          "display_url": "pic.twitter.com/YIua61qDvU",
+          "expanded_url": "https://twitter.com/iHartEricka/status/1438205769158209544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1438205746940948500,
+          "id_str": "1438205746940948483",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_WIgcRXMAM8cgG.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_WIgcRXMAM8cgG.jpg",
+          "url": "https://t.co/YIua61qDvU",
+          "display_url": "pic.twitter.com/YIua61qDvU",
+          "expanded_url": "https://twitter.com/iHartEricka/status/1438205769158209544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1438205746936782800,
+          "id_str": "1438205746936782848",
+          "indices": [
+            74,
+            97
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_WIgcQXoAAFklN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_WIgcQXoAAFklN.jpg",
+          "url": "https://t.co/YIua61qDvU",
+          "display_url": "pic.twitter.com/YIua61qDvU",
+          "expanded_url": "https://twitter.com/iHartEricka/status/1438205769158209544/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "filter_level": "low",
+    "lang": "en"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/Vlsx8IebqZ",
+    "expanded": "https://twitter.com/ihartericka/status/1438205769158209544",
+    "display": "twitter.com/ihartericka/st…"
+  },
+  "is_quote_status": true,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "TaxTheRich",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1631770071335"
+}]

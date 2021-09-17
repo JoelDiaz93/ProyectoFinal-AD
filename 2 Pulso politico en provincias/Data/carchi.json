@@ -1,0 +1,2516 @@
+[{
+  "_id": "1438472695214137346",
+  "created_at": "Thu Sep 16 11:59:50 +0000 2021",
+  "id": 1438472695214137300,
+  "id_str": "1438472695214137346",
+  "text": "@andreamnew2021 Que hermosa amor 😘😘😘",
+  "display_text_range": [
+    16,
+    36
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1438462961912266800,
+  "in_reply_to_status_id_str": "1438462961912266753",
+  "in_reply_to_user_id": 1348976116078403600,
+  "in_reply_to_user_id_str": "1348976116078403587",
+  "in_reply_to_screen_name": "andreamnew2021",
+  "user": {
+    "id": 855942566566559700,
+    "id_str": "855942566566559746",
+    "name": "Klever Naranjo",
+    "screen_name": "KleverNaranjo2",
+    "location": "Ecuador",
+    "url": null,
+    "description": "Barcelona",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 55,
+    "friends_count": 55,
+    "listed_count": 0,
+    "favourites_count": 7142,
+    "statuses_count": 827,
+    "created_at": "Sun Apr 23 00:33:05 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1316898532931010561/mSPk6wrM_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1316898532931010561/mSPk6wrM_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/855942566566559746/1492974543",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4e43cac8250a8b20",
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "place_type": "country",
+    "name": "Ecuador",
+    "full_name": "Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.008973,
+            -5.013285
+          ],
+          [
+            -92.008973,
+            1.681834
+          ],
+          [
+            -75.192627,
+            1.681834
+          ],
+          [
+            -75.192627,
+            -5.013285
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "andreamnew2021",
+        "name": "María Andrea",
+        "id": 1348976116078403600,
+        "id_str": "1348976116078403587",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631793590726"
+},{
+  "_id": "1438482303454416899",
+  "created_at": "Thu Sep 16 12:38:01 +0000 2021",
+  "id": 1438482303454417000,
+  "id_str": "1438482303454416899",
+  "text": "El primer torneo de #PokemonUNITE organizado en conjunto con @JCGjp ha tenido una acogida mayor a la esperada y de… https://t.co/wZajF5VQMX",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1391917469162475500,
+    "id_str": "1391917469162475526",
+    "name": "GilmarXCI",
+    "screen_name": "GilmarXci",
+    "location": "Ecuador",
+    "url": "https://www.youtube.com/channel/UCQNxY1yi9X8TkwipPEE7Acw",
+    "description": "Principiante en Youtube. Sígueme para información y actualizaciones de Pokémon UNITE, Nintendo y del mundo gamer en general.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 14,
+    "friends_count": 75,
+    "listed_count": 0,
+    "favourites_count": 391,
+    "statuses_count": 356,
+    "created_at": "Tue May 11 00:46:27 +0000 2021",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1395557190098882560/Nc8sYjFJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395557190098882560/Nc8sYjFJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391917469162475526/1621559901",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4e43cac8250a8b20",
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "place_type": "country",
+    "name": "Ecuador",
+    "full_name": "Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.008973,
+            -5.013285
+          ],
+          [
+            -92.008973,
+            1.681834
+          ],
+          [
+            -75.192627,
+            1.681834
+          ],
+          [
+            -75.192627,
+            -5.013285
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "El primer torneo de #PokemonUNITE organizado en conjunto con @JCGjp ha tenido una acogida mayor a la esperada y de los 256 cupos disponibles tendrán que entrar en sorteo para participar en este torneo. https://t.co/RJGymah483",
+    "display_text_range": [
+      0,
+      201
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PokemonUNITE",
+          "indices": [
+            20,
+            33
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "JCGjp",
+          "name": "JCG",
+          "id": 1416005466,
+          "id_str": "1416005466",
+          "indices": [
+            61,
+            67
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1438482297624350700,
+          "id_str": "1438482297624350727",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_aEBz2WUAcs02G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_aEBz2WUAcs02G.jpg",
+          "url": "https://t.co/RJGymah483",
+          "display_url": "pic.twitter.com/RJGymah483",
+          "expanded_url": "https://twitter.com/GilmarXci/status/1438482303454416899/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1438482297624350700,
+          "id_str": "1438482297624350727",
+          "indices": [
+            202,
+            225
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_aEBz2WUAcs02G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_aEBz2WUAcs02G.jpg",
+          "url": "https://t.co/RJGymah483",
+          "display_url": "pic.twitter.com/RJGymah483",
+          "expanded_url": "https://twitter.com/GilmarXci/status/1438482303454416899/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 450,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "PokemonUNITE",
+        "indices": [
+          20,
+          33
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/wZajF5VQMX",
+        "expanded_url": "https://twitter.com/i/web/status/1438482303454416899",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "JCGjp",
+        "name": "JCG",
+        "id": 1416005466,
+        "id_str": "1416005466",
+        "indices": [
+          61,
+          67
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631795881509"
+},{
+  "_id": "1438482305211830273",
+  "created_at": "Thu Sep 16 12:38:01 +0000 2021",
+  "id": 1438482305211830300,
+  "id_str": "1438482305211830273",
+  "text": "Los entrenadores que se registraron con sus equipos deberán estar atentos a la respuesta de su participación o no d… https://t.co/Q0C36Nm7Sn",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 1438482303454417000,
+  "in_reply_to_status_id_str": "1438482303454416899",
+  "in_reply_to_user_id": 1391917469162475500,
+  "in_reply_to_user_id_str": "1391917469162475526",
+  "in_reply_to_screen_name": "GilmarXci",
+  "user": {
+    "id": 1391917469162475500,
+    "id_str": "1391917469162475526",
+    "name": "GilmarXCI",
+    "screen_name": "GilmarXci",
+    "location": "Ecuador",
+    "url": "https://www.youtube.com/channel/UCQNxY1yi9X8TkwipPEE7Acw",
+    "description": "Principiante en Youtube. Sígueme para información y actualizaciones de Pokémon UNITE, Nintendo y del mundo gamer en general.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 14,
+    "friends_count": 75,
+    "listed_count": 0,
+    "favourites_count": 391,
+    "statuses_count": 357,
+    "created_at": "Tue May 11 00:46:27 +0000 2021",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1395557190098882560/Nc8sYjFJ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1395557190098882560/Nc8sYjFJ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1391917469162475526/1621559901",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4e43cac8250a8b20",
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "place_type": "country",
+    "name": "Ecuador",
+    "full_name": "Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.008973,
+            -5.013285
+          ],
+          [
+            -92.008973,
+            1.681834
+          ],
+          [
+            -75.192627,
+            1.681834
+          ],
+          [
+            -75.192627,
+            -5.013285
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "Los entrenadores que se registraron con sus equipos deberán estar atentos a la respuesta de su participación o no debido al sorteo. \n\nLa página de Pokémon UNITE indicó también que esperan en un próximo torneo tener más cupos para wue la mayor cantidad de entrenadores participen.",
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/Q0C36Nm7Sn",
+        "expanded_url": "https://twitter.com/i/web/status/1438482305211830273",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631795881928"
+},{
+  "_id": "1438482491564871687",
+  "created_at": "Thu Sep 16 12:38:46 +0000 2021",
+  "id": 1438482491564871700,
+  "id_str": "1438482491564871687",
+  "text": "Que básico Martín, sería como pedirte a ti que dejes de minar el partido Verde porque lo quieres a los pies de… https://t.co/o9VaLVENU5",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 49681553,
+    "id_str": "49681553",
+    "name": "Camilo Romero",
+    "screen_name": "CamiloRomero",
+    "location": "Colombia",
+    "url": "https://instagram.com/camiloromero",
+    "description": "Ciudadano / Papá de Guadalupe y Simón / Precandidato Presidencial @PartidoVerdeCol / #Sumemos / Gobernador de Nariño, Colombia 2016-2019 / Senador 2010-2014",
+    "translator_type": "none",
+    "protected": false,
+    "verified": true,
+    "followers_count": 195664,
+    "friends_count": 3157,
+    "listed_count": 530,
+    "favourites_count": 27067,
+    "statuses_count": 32209,
+    "created_at": "Mon Jun 22 16:34:43 +0000 2009",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "67B21F",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1424013837506842625/SfNIAM9g_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1424013837506842625/SfNIAM9g_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/49681553/1629835877",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0639360bd49a15e3",
+    "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+    "place_type": "country",
+    "name": "Colombia",
+    "full_name": "Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.728111,
+            -4.227073
+          ],
+          [
+            -81.728111,
+            13.390292
+          ],
+          [
+            -66.854502,
+            13.390292
+          ],
+          [
+            -66.854502,
+            -4.227073
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "quoted_status_id": 1438477013229133800,
+  "quoted_status_id_str": "1438477013229133827",
+  "quoted_status": {
+    "created_at": "Thu Sep 16 12:17:00 +0000 2021",
+    "id": 1438477013229133800,
+    "id_str": "1438477013229133827",
+    "text": "Que bien pueda @CamiloRomero irse al Pacto Histórico. Cree en esa política, la ha replicado y está en todo su derec… https://t.co/EkdDfpxCvC",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "truncated": true,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 175872606,
+      "id_str": "175872606",
+      "name": "Martín Rivera Alzate",
+      "screen_name": "riveraalzate",
+      "location": "Bogotá",
+      "url": "https://linktr.ee/riveraalzate",
+      "description": "Concejal de Bogotá. Alianza Verde. Gestor Urbano de @URosario. Cofundador @Combo2600. TEDx: http://youtu.be/YfgUnLpIx8k.",
+      "translator_type": "none",
+      "protected": false,
+      "verified": true,
+      "followers_count": 17318,
+      "friends_count": 9909,
+      "listed_count": 123,
+      "favourites_count": 6399,
+      "statuses_count": 13245,
+      "created_at": "Sat Aug 07 21:47:33 +0000 2010",
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1304407117269528577/vO1bWFZ__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304407117269528577/vO1bWFZ__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/175872606/1610479738",
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": null,
+      "follow_request_sent": null,
+      "notifications": null,
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "quoted_status_id": 1438463556329119700,
+    "quoted_status_id_str": "1438463556329119748",
+    "is_quote_status": true,
+    "extended_tweet": {
+      "full_text": "Que bien pueda @CamiloRomero irse al Pacto Histórico. Cree en esa política, la ha replicado y está en todo su derecho de militar allá.\n\nQue deje de minar al @PartidoVerdeCoL quien ha sido fundamental dentro de la Coalición de la Esperanza.",
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "CamiloRomero",
+            "name": "Camilo Romero",
+            "id": 49681553,
+            "id_str": "49681553",
+            "indices": [
+              15,
+              28
+            ]
+          },
+          {
+            "screen_name": "PartidoVerdeCoL",
+            "name": "Partido Alianza Verde 🌻",
+            "id": 116476719,
+            "id_str": "116476719",
+            "indices": [
+              157,
+              173
+            ]
+          }
+        ],
+        "symbols": []
+      }
+    },
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 4,
+    "favorite_count": 29,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/EkdDfpxCvC",
+          "expanded_url": "https://twitter.com/i/web/status/1438477013229133827",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "CamiloRomero",
+          "name": "Camilo Romero",
+          "id": 49681553,
+          "id_str": "49681553",
+          "indices": [
+            15,
+            28
+          ]
+        }
+      ],
+      "symbols": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "filter_level": "low",
+    "lang": "es"
+  },
+  "quoted_status_permalink": {
+    "url": "https://t.co/hKPLnWWb0J",
+    "expanded": "https://twitter.com/riveraalzate/status/1438477013229133827",
+    "display": "twitter.com/riveraalzate/s…"
+  },
+  "is_quote_status": true,
+  "extended_tweet": {
+    "full_text": "Que básico Martín, sería como pedirte a ti que dejes de minar el partido Verde porque lo quieres a los pies de @sergio_fajardo. No!\n\nEstoy haciendo una propuesta para juntar a todos, todos, los sectores de cambio, incluyendo a Sergio y la Coalición de la Esperanza.\n\n#MejorJuntos!",
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MejorJuntos",
+          "indices": [
+            267,
+            279
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "sergio_fajardo",
+          "name": "Sergio Fajardo",
+          "id": 25185308,
+          "id_str": "25185308",
+          "indices": [
+            111,
+            126
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/o9VaLVENU5",
+        "expanded_url": "https://twitter.com/i/web/status/1438482491564871687",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631795926358"
+},{
+  "_id": "1438483791484530691",
+  "created_at": "Thu Sep 16 12:43:56 +0000 2021",
+  "id": 1438483791484530700,
+  "id_str": "1438483791484530691",
+  "text": "@MilenaJ37275108 Igual para ti hermosa mujer 😉😁",
+  "display_text_range": [
+    17,
+    47
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1438475907694477300,
+  "in_reply_to_status_id_str": "1438475907694477315",
+  "in_reply_to_user_id": 1320809463952146400,
+  "in_reply_to_user_id_str": "1320809463952146432",
+  "in_reply_to_screen_name": "MilenaJ37275108",
+  "user": {
+    "id": 246411039,
+    "id_str": "246411039",
+    "name": "LuChO",
+    "screen_name": "luixmartinex",
+    "location": "SaTurNo🚀🪐",
+    "url": "https://www.instagram.com/luix.martinez123/",
+    "description": "Amante del reggae e hincha de la institución mas grande del pais 👹👹America De Cali👹👹\nHabitante permanente de Saturno 🪐👨‍🚀\nSincelejo - Montelibano",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 406,
+    "friends_count": 1220,
+    "listed_count": 0,
+    "favourites_count": 14426,
+    "statuses_count": 6527,
+    "created_at": "Wed Feb 02 18:56:55 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "24B300",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1436383754646327304/e3YecBCD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1436383754646327304/e3YecBCD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/246411039/1351666712",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0105431832e999e2",
+    "url": "https://api.twitter.com/1.1/geo/id/0105431832e999e2.json",
+    "place_type": "city",
+    "name": "Contadero",
+    "full_name": "Contadero, Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.552673,
+            0.876039
+          ],
+          [
+            -77.552673,
+            0.944116
+          ],
+          [
+            -77.451239,
+            0.944116
+          ],
+          [
+            -77.451239,
+            0.876039
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "MilenaJ37275108",
+        "name": "Mile siempre sonríe 😜",
+        "id": 1320809463952146400,
+        "id_str": "1320809463952146432",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631796236283"
+},{
+  "_id": "1438484918544343040",
+  "created_at": "Thu Sep 16 12:48:24 +0000 2021",
+  "id": 1438484918544343000,
+  "id_str": "1438484918544343040",
+  "text": "https://t.co/ubJikn4Abh",
+  "display_text_range": [
+    0,
+    0
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 153549960,
+    "id_str": "153549960",
+    "name": "Duval",
+    "screen_name": "duval75",
+    "location": "Ecuador",
+    "url": null,
+    "description": "Administrador público, bregando en esta vida, solidario al 1000%, amante de los animales, actualmente luchando contra la injusticia del poder mal llevado",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 745,
+    "friends_count": 4929,
+    "listed_count": 0,
+    "favourites_count": 11790,
+    "statuses_count": 12811,
+    "created_at": "Tue Jun 08 21:16:00 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/751518330696110081/ckBo65TL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/751518330696110081/ckBo65TL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/153549960/1473379253",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "00369f433aca083b",
+    "url": "https://api.twitter.com/1.1/geo/id/00369f433aca083b.json",
+    "place_type": "city",
+    "name": "Ibarra",
+    "full_name": "Ibarra, Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -78.455866,
+            0.156925
+          ],
+          [
+            -78.455866,
+            0.87578
+          ],
+          [
+            -77.962261,
+            0.87578
+          ],
+          [
+            -77.962261,
+            0.156925
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1438484915876675600,
+        "id_str": "1438484915876675586",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_aGaNmWQAIUUly.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_aGaNmWQAIUUly.jpg",
+        "url": "https://t.co/ubJikn4Abh",
+        "display_url": "pic.twitter.com/ubJikn4Abh",
+        "expanded_url": "https://twitter.com/duval75/status/1438484918544343040/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 405,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 643,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 643,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1438484915876675600,
+        "id_str": "1438484915876675586",
+        "indices": [
+          0,
+          23
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_aGaNmWQAIUUly.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_aGaNmWQAIUUly.jpg",
+        "url": "https://t.co/ubJikn4Abh",
+        "display_url": "pic.twitter.com/ubJikn4Abh",
+        "expanded_url": "https://twitter.com/duval75/status/1438484918544343040/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 405,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 643,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 643,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1631796504995"
+},{
+  "_id": "1438485182856695814",
+  "created_at": "Thu Sep 16 12:49:28 +0000 2021",
+  "id": 1438485182856695800,
+  "id_str": "1438485182856695814",
+  "text": "🟨🟦🟥 Compartimos con ustedes la #AgendaLegislativaEC prevista para el día de hoy jueves en la sesión del… https://t.co/nxolfQ3GPB",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 995911923500814300,
+    "id_str": "995911923500814339",
+    "name": "Bancada del Acuerdo Nacional (BAN)",
+    "screen_name": "BancadaAN_EC",
+    "location": "Quito, Ecuador",
+    "url": "https://www.facebook.com/BancadaAN.EC/",
+    "description": "Cuenta oficial de la Bancada del Acuerdo Nacional (BAN) ante la @AsambleaEcuador 🇪🇨 | Coordinador @Juanflores18 - Subcoordinadora @RinaCampainB",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4277,
+    "friends_count": 56,
+    "listed_count": 24,
+    "favourites_count": 8349,
+    "statuses_count": 23688,
+    "created_at": "Mon May 14 06:21:20 +0000 2018",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1425078758927646725/miu9HRNC_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1425078758927646725/miu9HRNC_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/995911923500814339/1622100830",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4e43cac8250a8b20",
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "place_type": "country",
+    "name": "Ecuador",
+    "full_name": "Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.008973,
+            -5.013285
+          ],
+          [
+            -92.008973,
+            1.681834
+          ],
+          [
+            -75.192627,
+            1.681834
+          ],
+          [
+            -75.192627,
+            -5.013285
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "🟨🟦🟥 Compartimos con ustedes la #AgendaLegislativaEC prevista para el día de hoy jueves en la sesión del #PlenoLegislativo N°727 de la @asambleaecuador, que tiene los siguientes puntos a tratar ⤵️⤵️\n\n#BancadaAcuerdoNacional https://t.co/jdYHINXs4t",
+    "display_text_range": [
+      0,
+      222
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "AgendaLegislativaEC",
+          "indices": [
+            31,
+            51
+          ]
+        },
+        {
+          "text": "PlenoLegislativo",
+          "indices": [
+            104,
+            121
+          ]
+        },
+        {
+          "text": "BancadaAcuerdoNacional",
+          "indices": [
+            199,
+            222
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "AsambleaEcuador",
+          "name": "Asamblea Nacional",
+          "id": 56502954,
+          "id_str": "56502954",
+          "indices": [
+            134,
+            150
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1438485181036384300,
+          "id_str": "1438485181036384258",
+          "indices": [
+            223,
+            246
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_aGppZWUAIzGGJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_aGppZWUAIzGGJ.jpg",
+          "url": "https://t.co/jdYHINXs4t",
+          "display_url": "pic.twitter.com/jdYHINXs4t",
+          "expanded_url": "https://twitter.com/BancadaAN_EC/status/1438485182856695814/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1438485181036384300,
+          "id_str": "1438485181036384258",
+          "indices": [
+            223,
+            246
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_aGppZWUAIzGGJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_aGppZWUAIzGGJ.jpg",
+          "url": "https://t.co/jdYHINXs4t",
+          "display_url": "pic.twitter.com/jdYHINXs4t",
+          "expanded_url": "https://twitter.com/BancadaAN_EC/status/1438485182856695814/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "AgendaLegislativaEC",
+        "indices": [
+          31,
+          51
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/nxolfQ3GPB",
+        "expanded_url": "https://twitter.com/i/web/status/1438485182856695814",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          105,
+          128
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631796568012"
+},{
+  "_id": "1438488939309027329",
+  "created_at": "Thu Sep 16 13:04:23 +0000 2021",
+  "id": 1438488939309027300,
+  "id_str": "1438488939309027329",
+  "text": "La fe es lo único que necesitas para ver cosas maravillosas de Dios.\n\nComparte nuestra #PalabraDeFé y bendice a muc… https://t.co/kC71xObH9c",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1311740800095727600,
+    "id_str": "1311740800095727616",
+    "name": "Centro Bíblico Conexión Córdoba - Nariño",
+    "screen_name": "CBCCordobaNar",
+    "location": null,
+    "url": null,
+    "description": "Somos una Iglesia conforme al corazón de Dios con un profundo amor por Jesús y su palabra.\n\nNuestros Pastores @PtrHeiberUrban e Isa Hernández te esperan !!",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 8,
+    "friends_count": 12,
+    "listed_count": 0,
+    "favourites_count": 71,
+    "statuses_count": 334,
+    "created_at": "Thu Oct 01 18:52:44 +0000 2020",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1399703597269536769/BOMEIyGx_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1399703597269536769/BOMEIyGx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1311740800095727616/1630596292",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "009d93704b641379",
+    "url": "https://api.twitter.com/1.1/geo/id/009d93704b641379.json",
+    "place_type": "city",
+    "name": "Córdoba",
+    "full_name": "Córdoba, Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.543505,
+            0.687323
+          ],
+          [
+            -77.543505,
+            0.877313
+          ],
+          [
+            -77.191991,
+            0.877313
+          ],
+          [
+            -77.191991,
+            0.687323
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "La fe es lo único que necesitas para ver cosas maravillosas de Dios.\n\nComparte nuestra #PalabraDeFé y bendice a muchos.\n\n#ConexiónCórdoba Un sitio Ideal para encontrarte con Dios. https://t.co/fMWUWvy4sJ",
+    "display_text_range": [
+      0,
+      179
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PalabraDeFé",
+          "indices": [
+            87,
+            99
+          ]
+        },
+        {
+          "text": "ConexiónCórdoba",
+          "indices": [
+            121,
+            137
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id": 1438488937387995100,
+          "id_str": "1438488937387995138",
+          "indices": [
+            180,
+            203
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_aKES5XMAII6Th.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_aKES5XMAII6Th.jpg",
+          "url": "https://t.co/fMWUWvy4sJ",
+          "display_url": "pic.twitter.com/fMWUWvy4sJ",
+          "expanded_url": "https://twitter.com/CBCCordobaNar/status/1438488939309027329/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 678,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 769,
+              "h": 767,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 769,
+              "h": 767,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1438488937387995100,
+          "id_str": "1438488937387995138",
+          "indices": [
+            180,
+            203
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_aKES5XMAII6Th.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_aKES5XMAII6Th.jpg",
+          "url": "https://t.co/fMWUWvy4sJ",
+          "display_url": "pic.twitter.com/fMWUWvy4sJ",
+          "expanded_url": "https://twitter.com/CBCCordobaNar/status/1438488939309027329/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 678,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 769,
+              "h": 767,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 769,
+              "h": 767,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "PalabraDeFé",
+        "indices": [
+          87,
+          99
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/kC71xObH9c",
+        "expanded_url": "https://twitter.com/i/web/status/1438488939309027329",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631797463620"
+},{
+  "_id": "1438491263880269827",
+  "created_at": "Thu Sep 16 13:13:37 +0000 2021",
+  "id": 1438491263880269800,
+  "id_str": "1438491263880269827",
+  "text": "Con #fe\n#FelizJueves https://t.co/h1wppRl0oV",
+  "display_text_range": [
+    0,
+    20
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 123275895,
+    "id_str": "123275895",
+    "name": "𝒥𝒶𝓃ℯ𝓁𝓁𝒶",
+    "screen_name": "vicaoz",
+    "location": "chillangüa",
+    "url": null,
+    "description": "Con el lema #adoptaparasiempre y #Sialcafe \n\n\n\n\n#𝗚𝗼𝗼𝗱𝗩𝗶𝗯𝗲𝘀 😜",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 221,
+    "friends_count": 148,
+    "listed_count": 8,
+    "favourites_count": 6499,
+    "statuses_count": 4457,
+    "created_at": "Mon Mar 15 15:23:34 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "334000",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1429999069032861696/6zbza_vY_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429999069032861696/6zbza_vY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/123275895/1629775691",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4e43cac8250a8b20",
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "place_type": "country",
+    "name": "Ecuador",
+    "full_name": "Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.008973,
+            -5.013285
+          ],
+          [
+            -92.008973,
+            1.681834
+          ],
+          [
+            -75.192627,
+            1.681834
+          ],
+          [
+            -75.192627,
+            -5.013285
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fe",
+        "indices": [
+          4,
+          7
+        ]
+      },
+      {
+        "text": "FelizJueves",
+        "indices": [
+          8,
+          20
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1438491257379172400,
+        "id_str": "1438491257379172352",
+        "indices": [
+          21,
+          44
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_aMLViXMAAhndg.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_aMLViXMAAhndg.jpg",
+        "url": "https://t.co/h1wppRl0oV",
+        "display_url": "pic.twitter.com/h1wppRl0oV",
+        "expanded_url": "https://twitter.com/vicaoz/status/1438491263880269827/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1350,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1438491257379172400,
+        "id_str": "1438491257379172352",
+        "indices": [
+          21,
+          44
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_aMLViXMAAhndg.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_aMLViXMAAhndg.jpg",
+        "url": "https://t.co/h1wppRl0oV",
+        "display_url": "pic.twitter.com/h1wppRl0oV",
+        "expanded_url": "https://twitter.com/vicaoz/status/1438491263880269827/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 544,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1350,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 960,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1631798017841"
+},{
+  "_id": "1438492089134768135",
+  "created_at": "Thu Sep 16 13:16:54 +0000 2021",
+  "id": 1438492089134768000,
+  "id_str": "1438492089134768135",
+  "text": "En malos momentos también vale 🏃🏽‍♂️🏃🏽‍♂️🏃🏽‍♂️ https://t.co/u8hk3e70du",
+  "display_text_range": [
+    0,
+    46
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 121129074,
+    "id_str": "121129074",
+    "name": "Robert M Chuquimarca",
+    "screen_name": "Robertm29",
+    "location": "Loja, Ecuador",
+    "url": "http://m.facebook.com/?ref=tn_tnmn&_rdr",
+    "description": "Vivir más y pensar menos..",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 419,
+    "friends_count": 645,
+    "listed_count": 2,
+    "favourites_count": 2948,
+    "statuses_count": 12845,
+    "created_at": "Mon Mar 08 14:21:59 +0000 2010",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1413331816589709319/DzjvMtP0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1413331816589709319/DzjvMtP0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/121129074/1483886349",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4e43cac8250a8b20",
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "place_type": "country",
+    "name": "Ecuador",
+    "full_name": "Ecuador",
+    "country_code": "EC",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.008973,
+            -5.013285
+          ],
+          [
+            -92.008973,
+            1.681834
+          ],
+          [
+            -75.192627,
+            1.681834
+          ],
+          [
+            -75.192627,
+            -5.013285
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1438492079848628200,
+        "id_str": "1438492079848628230",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_aM7NeXIAYTMy9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_aM7NeXIAYTMy9.jpg",
+        "url": "https://t.co/u8hk3e70du",
+        "display_url": "pic.twitter.com/u8hk3e70du",
+        "expanded_url": "https://twitter.com/Robertm29/status/1438492089134768135/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1438492079848628200,
+        "id_str": "1438492079848628230",
+        "indices": [
+          47,
+          70
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_aM7NeXIAYTMy9.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_aM7NeXIAYTMy9.jpg",
+        "url": "https://t.co/u8hk3e70du",
+        "display_url": "pic.twitter.com/u8hk3e70du",
+        "expanded_url": "https://twitter.com/Robertm29/status/1438492089134768135/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1080,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631798214597"
+},{
+  "_id": "1438493827229171716",
+  "created_at": "Thu Sep 16 13:23:48 +0000 2021",
+  "id": 1438493827229171700,
+  "id_str": "1438493827229171716",
+  "text": "How difficult is it to meet my goals 🙄 https://t.co/zN6aJ8u8Rm",
+  "display_text_range": [
+    0,
+    38
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1390024144520110000,
+    "id_str": "1390024144520110081",
+    "name": "Katherine",
+    "screen_name": "9Katew",
+    "location": "Colombia",
+    "url": null,
+    "description": "one day at a time",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 6,
+    "friends_count": 185,
+    "listed_count": 0,
+    "favourites_count": 819,
+    "statuses_count": 838,
+    "created_at": "Wed May 05 19:22:45 +0000 2021",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1434958433640488964/vB6aWaXg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1434958433640488964/vB6aWaXg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390024144520110081/1623288840",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0639360bd49a15e3",
+    "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+    "place_type": "country",
+    "name": "Colombia",
+    "full_name": "Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.728111,
+            -4.227073
+          ],
+          [
+            -81.728111,
+            13.390292
+          ],
+          [
+            -66.854502,
+            13.390292
+          ],
+          [
+            -66.854502,
+            -4.227073
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1438327975133556700,
+        "id_str": "1438327975133556737",
+        "indices": [
+          39,
+          62
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_X3rDxXsAEwRQb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_X3rDxXsAEwRQb.jpg",
+        "url": "https://t.co/zN6aJ8u8Rm",
+        "display_url": "pic.twitter.com/zN6aJ8u8Rm",
+        "expanded_url": "https://twitter.com/9Katew/status/1438493827229171716/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 488,
+            "h": 472,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 488,
+            "h": 472,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 488,
+            "h": 472,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1438327975133556700,
+        "id_str": "1438327975133556737",
+        "indices": [
+          39,
+          62
+        ],
+        "media_url": "http://pbs.twimg.com/media/E_X3rDxXsAEwRQb.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/E_X3rDxXsAEwRQb.jpg",
+        "url": "https://t.co/zN6aJ8u8Rm",
+        "display_url": "pic.twitter.com/zN6aJ8u8Rm",
+        "expanded_url": "https://twitter.com/9Katew/status/1438493827229171716/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 488,
+            "h": 472,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 488,
+            "h": 472,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 488,
+            "h": 472,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1631798628991"
+},{
+  "_id": "1438494904880181259",
+  "created_at": "Thu Sep 16 13:28:05 +0000 2021",
+  "id": 1438494904880181200,
+  "id_str": "1438494904880181259",
+  "text": "@siwonchoi role model ... admirable man https://t.co/LbWQKWU46A",
+  "display_text_range": [
+    11,
+    39
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1438474996905513000,
+  "in_reply_to_status_id_str": "1438474996905512966",
+  "in_reply_to_user_id": 125603760,
+  "in_reply_to_user_id_str": "125603760",
+  "in_reply_to_screen_name": "siwonchoi",
+  "user": {
+    "id": 1390024144520110000,
+    "id_str": "1390024144520110081",
+    "name": "Katherine",
+    "screen_name": "9Katew",
+    "location": "Colombia",
+    "url": null,
+    "description": "one day at a time",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 6,
+    "friends_count": 185,
+    "listed_count": 0,
+    "favourites_count": 821,
+    "statuses_count": 840,
+    "created_at": "Wed May 05 19:22:45 +0000 2021",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1434958433640488964/vB6aWaXg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1434958433640488964/vB6aWaXg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1390024144520110081/1623288840",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0639360bd49a15e3",
+    "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+    "place_type": "country",
+    "name": "Colombia",
+    "full_name": "Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.728111,
+            -4.227073
+          ],
+          [
+            -81.728111,
+            13.390292
+          ],
+          [
+            -66.854502,
+            13.390292
+          ],
+          [
+            -66.854502,
+            -4.227073
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "siwonchoi",
+        "name": "Siwon Choi",
+        "id": 125603760,
+        "id_str": "125603760",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 1438494900790698000,
+        "id_str": "1438494900790697989",
+        "indices": [
+          40,
+          63
+        ],
+        "description": "Minions Muy Bien GIF",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/E_aPfaTXIAUpevG.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_aPfaTXIAUpevG.jpg",
+        "url": "https://t.co/LbWQKWU46A",
+        "display_url": "pic.twitter.com/LbWQKWU46A",
+        "expanded_url": "https://twitter.com/9Katew/status/1438494904880181259/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 440,
+            "h": 222,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 440,
+            "h": 222,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 440,
+            "h": 222,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1438494900790698000,
+        "id_str": "1438494900790697989",
+        "indices": [
+          40,
+          63
+        ],
+        "description": "Minions Muy Bien GIF",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/E_aPfaTXIAUpevG.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_aPfaTXIAUpevG.jpg",
+        "url": "https://t.co/LbWQKWU46A",
+        "display_url": "pic.twitter.com/LbWQKWU46A",
+        "expanded_url": "https://twitter.com/9Katew/status/1438494904880181259/photo/1",
+        "type": "animated_gif",
+        "video_info": {
+          "aspect_ratio": [
+            220,
+            111
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/E_aPfaTXIAUpevG.mp4"
+            }
+          ]
+        },
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 440,
+            "h": 222,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 440,
+            "h": 222,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 440,
+            "h": 222,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631798885923"
+},{
+  "_id": "1438495304463048708",
+  "created_at": "Thu Sep 16 13:29:41 +0000 2021",
+  "id": 1438495304463048700,
+  "id_str": "1438495304463048708",
+  "text": "@cristianitochoa Como así loco, yo soy soy, el es el",
+  "display_text_range": [
+    17,
+    52
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 1438490173382213600,
+  "in_reply_to_status_id_str": "1438490173382213642",
+  "in_reply_to_user_id": 60124663,
+  "in_reply_to_user_id_str": "60124663",
+  "in_reply_to_screen_name": "cristianitochoa",
+  "user": {
+    "id": 246411039,
+    "id_str": "246411039",
+    "name": "LuChO",
+    "screen_name": "luixmartinex",
+    "location": "SaTurNo🚀🪐",
+    "url": "https://www.instagram.com/luix.martinez123/",
+    "description": "Amante del reggae e hincha de la institución mas grande del pais 👹👹America De Cali👹👹\nHabitante permanente de Saturno 🪐👨‍🚀\nSincelejo - Montelibano",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 407,
+    "friends_count": 1220,
+    "listed_count": 0,
+    "favourites_count": 14427,
+    "statuses_count": 6528,
+    "created_at": "Wed Feb 02 18:56:55 +0000 2011",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": true,
+    "profile_link_color": "24B300",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1436383754646327304/e3YecBCD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1436383754646327304/e3YecBCD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/246411039/1351666712",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "01b867b3517207b6",
+    "url": "https://api.twitter.com/1.1/geo/id/01b867b3517207b6.json",
+    "place_type": "city",
+    "name": "Ipiales",
+    "full_name": "Ipiales, Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -77.69675,
+            0.338206
+          ],
+          [
+            -77.69675,
+            0.889905
+          ],
+          [
+            -77.053065,
+            0.889905
+          ],
+          [
+            -77.053065,
+            0.338206
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "cristianitochoa",
+        "name": "Cristian Julián",
+        "id": 60124663,
+        "id_str": "60124663",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1631798981191"
+}]
