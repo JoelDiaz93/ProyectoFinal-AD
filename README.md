@@ -5,7 +5,7 @@
 - Palomo Wendy
 - Yépez Alexis
 
-### Arquitectura del proyecto
+### Arquitectura de la solucion
 ![image](https://user-images.githubusercontent.com/58042087/133706443-18c84408-2c39-42bc-9f95-2ff139ec375c.png)
 
 
