@@ -33,5 +33,5 @@ Contiene los datos recolectados de canales populares de noticias internacionales
 
 En este apartado se encuentra el informe tecnico del proyecto final, las actividades a realizar de cada estudiante, el cronograma y la presentacion de todo el Data-Lake. 
 
-### 7. Video en YouTube.
+### 7. [Video de youtube](https://www.youtube.com/watch?v=yPs9caaeNo0&ab_channel=JoelD%C3%ADaz)
 
